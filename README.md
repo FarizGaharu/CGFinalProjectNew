@@ -1,1 +1,3 @@
-# CGFinalProjectNew
+# Computer Graphics Final Project
+
+## Introduction
